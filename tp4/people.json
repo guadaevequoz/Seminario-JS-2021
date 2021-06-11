@@ -1,0 +1,38 @@
+[
+    {
+    "name": "Alice",
+    "dob": "2001, 3, 4",
+    "height" : 165,
+    "weight" : 68
+    },
+    {
+    "name" : "Robert",
+    "dob" : "1997, 1, 31",
+    "height" : 170,
+    "weight" : 88
+    },
+    {
+    "name" : "Charles",
+    "dob" : "1978, 9, 15",
+    "height" : 188,
+    "weight" : 102
+    },
+    {
+    "name" : "Lucia",
+    "dob" : "1955, 7, 7",
+    "height" : 155,
+    "weight" : 61
+    },
+    {
+    "name" : "Peter",
+    "dob" : "1988, 2, 9",
+    "height" : 165,
+    "weight" : 99
+    },
+    {
+    "name" : "Lucas",
+    "dob" : "1910, 11, 4",
+    "height" : 172,
+    "weight" : 75
+    }
+]
